@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-center items-center min-h-screen bg-gray-100">
     <div class="bg-white p-6 rounded shadow w-80">
-      <h1 class="text-xl font-bold mb-2 text-center">Login by korarak</h1>
+      <h1 class="text-xl font-bold mb-2 text-center">Login by nattawut</h1>
 
       <!-- Show API URL -->
       <p class="text-sm text-gray-500 text-center mb-2">
